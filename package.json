@@ -1,6 +1,6 @@
 {
   "name": "@superjs/observe",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "use Proxy to observe changes for nested object",
   "main": "index.js",
   "engines": {
@@ -57,7 +57,6 @@
   },
   "dependencies": {
     "is-plain-object": "^2.0.4",
-    "is-primitive": "^3.0.1",
-    "kind-of": "^6.0.2"
+    "is-primitive": "^3.0.1"
   }
 }
