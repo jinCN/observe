@@ -9,7 +9,7 @@ let x=observe({a:{b:1}},(change)=>{
 x.a.b=2
 ```
 The argument `change` will be output as below:
-```js
+```
 {
   key: 'a',
   type: 'object',
